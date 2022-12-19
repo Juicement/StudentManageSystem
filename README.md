@@ -1,1 +1,1 @@
-# 随便写的java学生管理系统
+# simpleStudentManageSystem
